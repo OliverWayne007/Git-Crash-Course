@@ -9,3 +9,8 @@ function newFunction()
 {
     console.log("Added new function !");
 }
+
+function testingBranchFirstFunction()
+{
+    console.log("This is the first function created in the testing branch !");
+}
